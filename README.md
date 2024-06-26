@@ -1,4 +1,6 @@
 # DynamicBones-Configs
+For settings on the newer version used by VRChat check [here](https://github.com/Z-ANESaber/Phys-Bone-Settings)
+
 Dynamic Bones Configs for VRChat and others 
 
 Some settings might not fit with your model so feel free to adjust them to your preference:
