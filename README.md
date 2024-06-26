@@ -1,5 +1,7 @@
 # DynamicBones-Configs
-For settings on the newer version used by VRChat check [here](https://github.com/Z-ANESaber/Phys-Bone-Settings)
+> [!NOTE]
+> DynamicBones in use for VRChat is outdated.
+**For settings on the newer version used by VRChat check [here](https://github.com/Z-ANESaber/Phys-Bone-Settings)**
 
 Dynamic Bones Configs for VRChat and others 
 
